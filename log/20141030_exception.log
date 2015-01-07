@@ -1,0 +1,5 @@
+*ERROR* 	2014/10/30 - 15:18:06: Property Discount->name is empty at line 887 in file classes/ObjectModel.php
+*ERROR* 	2014/10/30 - 15:18:37: Property Discount->name is empty at line 887 in file classes/ObjectModel.php
+*ERROR* 	2014/10/30 - 15:18:59: Property Discount->name is empty at line 887 in file classes/ObjectModel.php
+*ERROR* 	2014/10/30 - 15:19:36: Property Discount->name is empty at line 887 in file classes/ObjectModel.php
+*ERROR* 	2014/10/30 - 15:30:48: Property Discount->date_from is empty at line 846 in file classes/ObjectModel.php

@@ -1,0 +1,160 @@
+.param-extinfo {
+	font-weight: bold;
+	padding-left: 4px;
+}
+
+div.disabled {
+	font-weight: normal;
+	color: #bbbbbb;
+}
+
+div.enabled {
+	font-weight: bold;
+	color: #222222;
+}
+
+#fields-desc {
+	text-align: left;
+	padding: 7px;
+	font-size: 12px;
+}
+
+#fields-desc li {
+	list-style: none;
+	padding-left: 5px;
+}
+
+td.all-fld-title {
+	color: #111111;
+	text-align: right;
+	padding-right: 3px;
+	font-weight: bold;
+	width: 200px;
+}
+
+td.all-fld-val {
+	text-align: left;
+}
+
+.pos {
+	color: #009b00;
+	font-weight: 700;
+}
+
+.neu {
+	color: #646464;
+	font-weight: 700;
+}
+
+.neg {
+	color: #ee3e2b;
+	font-weight: 700;
+}
+
+button {
+	font-size: 10px;
+	height: 18px;
+}
+/* input[type=text] {color:#333; padding:2px;border: solid 1px #a5a5a5; margin: 1px; font-size: 10px} */
+div.filter-box {
+	background-color: #eee;
+	margin: 1px;
+	float: left;
+	text-align: center;
+	border: 1px solid gray;
+	padding: 3px;
+	width: 95px;
+	min-height: 50px;
+	font-weight: bold;
+	padding: auto auto;
+	font-size: 10px;
+}
+
+div.filter-box span {
+	display: block;
+	height: 28px;
+	width: 98%;
+	color: #fff;
+	font-weight: bold;
+	padding: 1px;
+	margin: 0 auto;
+}
+
+/* tooltip styling */
+.tooltip {
+	display: none;
+	background: transparent url('img/white_big.png');
+	height: 140px;
+	padding: 40px 30px 10px 30px;
+	width: 310px;
+	font-size: 11px;
+	color: #555;
+}
+
+.parcel-content,.parcel-content:hover {
+	font-weight: bold;
+	color: #00e;
+}
+
+.title-profile-info {
+	font-size: 10px;
+	color: #1e5bae;
+	margin-left: 7px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	float: right;
+	line-height: 16px;
+}
+
+.title-profile-info a {
+	font-size: 8px;
+}
+
+.action-result {
+	width: 98%;
+	height: 25px;
+	line-height: 25px;
+	text-align: right;
+}
+
+td input[type=text] {
+	padding: 2px;
+}
+
+.waiting,.waiting {
+	background: transparent url('img/waiting.gif') right center no-repeat;
+}
+
+.btn-add-parcel {
+	float: right;
+	color: #07a !important;
+	font-size: 12px !important;
+	border-color: #07a !important;
+	margin-bottom: 4px;
+}
+
+.simpleview-td {
+	border: 0px;
+	padding: 1px;
+}
+
+.parcel-limit-info {
+	width: 120px;
+	float: right;
+	margin: 2px !important;
+	text-align: center;
+	margin: 2px;
+	font-size: 12px;
+	color: #A3A2A2;
+}
+
+.parcel-limit-info .parcel-counter {
+	font-size: 45px;
+	font-weight: bold; //
+	color: darkred;
+	margin: 5px;
+}
+
+.parcel-limit-info a {
+	color: #1e5bae;
+}

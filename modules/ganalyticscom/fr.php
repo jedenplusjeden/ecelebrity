@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_3a9b11492656524c81fd835eda4ded3f'] = 'Google Analytics E-Commerce PHP';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_7947c0f9e25dddd3ba00b78ca496e5c3'] = 'Insertion des commandes dans Google Analytics en PHP';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_393d4b30284b0fd8c1e2ec3ad03a0312'] = 'Module de statistiques Google Analytics E-commerce - Pilotez votre CA et votre taux de conversion !';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_620bc018bf80308f682f91df6b816e67'] = 'Realisation : ';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_e7785de91330713fc2d12404bb6bd556'] = 'Paramètres';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_73732af11836e1d28382c85553794bfd'] = 'Code de suivi Analytics';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_740b57fb19eeca4ffd4c612065a31e41'] = '(UA-xxxxxxx-xx)';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_c077fc5a77dd325a9a2a67714c250b82'] = 'Informer dynamiquement le nom de la page visitée';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_22b04f2ba0813829df7227be18b109f1'] = 'Si cette option est activée, le nom de la page visitée sera transmis à Google Analytics à la manière du \"ganalytics\" de Prestashop, ce qui permet de conserver les objectifs existant pour le tunnel de vente par exemple.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_c5cf7d1c18773cf0f580cf41f1cbf57b'] = 'Cette fonctionnalité posant problème sur certain sites multilingues, il est possible de la désactiver.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_dd8afbd38b01a7b4eb27f45fc036b881'] = 'Activer le fichier de logs';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_8af3b4001502204f3923c3b1c48f02e5'] = 'Statuts insertion commande Analytics';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_38af7f0de896d75a1d94a178e2a3e481'] = 'Statuts déclenchant l\'insertion d\'une commande dans Google Analytics.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_aa7fd053fc4e2ce5fe38ee70b9994bf4'] = 'Statuts annulation commande Analytics';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_eba84e0392b6e5b32224e698d5b917f6'] = 'Statuts déclenchant l\'annulation d\'une commande dans Google Analytics.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_7898516eeaa2516be31596614058bd1d'] = 'Temps minimum avant de retenir un nouveau referer';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_03c7c0ace395d80182db07ae2c30f034'] = 's';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_894608ff381bebb55a0533d90a4a9ec4'] = 'Voici comment GA met à jour le cookie de suivi de campagne basée sur referrer:';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_0fdce1d5346e778941201452ecea5296'] = 'Le trafic direct est toujours écrasé par les sites référents, le search (organic), les campagnes payantes (adwords), et n\'écrase pas les informations de la campagne existante.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_995a3c85f2b8598d7ce9b87383f4bd65'] = 'Une nouvelle campagne, referer ou lien organique qui apporte un visiteur sur le site est toujours prioritaire sur le cookie et écrase les informations de la campagne existante.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_1732453fd119a6599f7668dc1d21a2a8'] = 'Pour tracker les transactions, le module pose un cookie différent de celui posé par Google Analytics, permettant de retenir le referer pendant un laps de temps que vous pouvez régler.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_419d2b3db15fc52e4a163dfb10ae8ff4'] = 'Pour se rapprocher au maximum des statistiques de Google, nous vous conseillons de laisser la valeur par défaut, c\'est à dire 18 000s soit 5h.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_a2b6146f88b81e19b707d3543aa90496'] = 'Si vous souhaitez retenir le referer plus de temps pour analyser différemment vos sources de conversion, il est donc possible de définir une durée de vie du cookie plus importante. ';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_3c331e5c32b8c59a670fdf4964f6e41a'] = 'ex: 18000s = 5h, 604800s = 1 semaine, 2629800s = 1 mois';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_aed88202e2432ee2a613f9120ef7486b'] = 'Enregistrer';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_685c17e33c1f0268b39ef7a1491de281'] = 'Purger la base de données';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_22e0461ba9931f162f3c80d8c4c0621d'] = 'Ajoutez cette URL à votre crontab pour automatiser la purge de la base de données:';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_e6eca1fc76fbcfc06a6081e6c9fe2c33'] = 'Purger';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_25a8f154ef990606468a39ab26b5f70c'] = 'La purge a été correctement effectuée.';
+$_MODULE['<{ganalyticscom}prestashop>ganalyticscom_e9762da7ba70222119eb2439a81505e2'] = 'Une erreur est survenue, la purge ne s\'est pas effectuée correctement.';

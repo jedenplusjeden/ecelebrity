@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_f81069fd6117f7f303342924bcce1335'] = 'For the module to be effective, the following option \"Default order by: Position inside category\" must be enabled. You can configure it';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6c92285fa6d3e827b198d120ea3ac674'] = 'here.';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_03368e3c1eb4d2a9048775874301b19f'] = 'Select the category you want to sort out';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_86024cad1e83101d97359d7351051156'] = 'products';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_9007d627b1d37b40035b9b5dc373b272'] = 'The products order has been successfully updated';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_bf85d21a9413bc3d44e7fa7a3bfdbcf9'] = 'Sort out the category by';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_826c19d01b527f2701cc3460b9c889de'] = 'Personalised order';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_52d5301dbb43f26e86168c5ba53b081d'] = 'Ascending price';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_ca74454729ae2e506f435b49d911957f'] = 'Descending price';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_a91288ae11a74ac6560baa8ad691a956'] = 'Ascending stock';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6bec209cf4e8a6f91560fdeacff0b002'] = 'Descending stock';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_05d6fdbb4c01dfa62e1b27fa074dfd88'] = 'Ascending date';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_5d064159950d9f632315d173a3bef308'] = 'Descending date';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_d7778d0c64b6ba21494c97f77a66885a'] = 'Filter the products by';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_4e140ba723a03baa6948340bf90e2ef6'] = 'Name:';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_f4a275a931b82e5058bc8ffad8b8e5bd'] = 'Manufacturer:';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_b1c94ca2fbc3e78fc30069c8d0f01680'] = 'All';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_24a23d787190f2c4812ff9ab11847a72'] = 'Status:';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_4d3d769b812b6faa6b76e1a8abaece2d'] = 'Enabled';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_3cab03c00dbd11bc3569afa0748013f0'] = 'Disabled';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_23a12f67f614b5518c7f1c2465bf95e3'] = 'IMAGE';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_ad32e604e17467fc435538334fbddf3e'] = 'NAME';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6a4c1672391ec30e8de1c47e55fa0037'] = 'MANUFACTURER';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_633a6c7a6b9958f8174250094daf1e6a'] = 'DATE';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6da7ab78b59d24c57919aa4011b1392e'] = 'PRICE';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_f82422e777e3674444389cdf569b3661'] = 'STOCK';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_18ff74f43da410c5529f7d6fca84f115'] = 'STATUS';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6575d9a58f0b41a108f2d6a565a0650d'] = 'ORDER';
+$_MODULE['<{lgproductordered}prestashop>lgproductordered_491838beeca5c3154255abb58cf09f82'] = 'Sorting Products by Category';
+$_MODULE['<{lgproductordered}prestashop>lgproductordered_ecb6ce4464b62389891e8ed40dc4eafc'] = 'Sort all the products of your catalogue per price, quantity, date or personalised order.';
+$_MODULE['<{lgproductordered}prestashop>lgproductordered_cdf570a185907ebd16c2b50886a88646'] = 'Sorting out products';

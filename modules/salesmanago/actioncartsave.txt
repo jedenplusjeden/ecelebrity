@@ -1,0 +1,46 @@
+/*
+	public function hookActionCartSave($params) 
+	{
+        function do_post_request($url, $data)
+		{
+    	$ch = curl_init($url);
+    	curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+    	curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    	curl_setopt($ch, CURLOPT_HTTPHEADER,
+					array(
+                    		 		'Content-Type: application/json',
+                    			 	'Content-Length: ' . strlen($data)
+						)
+    					);
+
+    	return curl_exec($ch);
+		}
+		
+		$cart = $params['cart'];
+        $prods = $cart->getProducts();
+		//$email = $cart->getCustomeremail();
+		foreach ($prods as $prod)
+		$allprod = $allprod . $prod['id_product'] . ",";
+		$clientId = Configuration::get('SM_CLIENT_ID');
+    	$apiKey = 'j2q8qp4fbp9qf2b8p49fb'; //Losowy ciąg znaków
+		$owner = Configuration::get('SM_EMAIL');
+    	$apiSecret = Configuration::get('SM_API');
+		$data = array(
+        		'clientId' => $clientId,
+        		'apiKey' => $apiKey,
+        		'requestTime' => time(),
+        		'sha' => sha1($apiKey . $clientId . $apiSecret),
+       			'contact' => array(
+							//'email' => $email,                        
+        					),
+        		'owner' => $owner,
+				);
+		//$json = json_encode($data);
+		//$result = do_post_request('http://www.salesmanago.pl/api/contact/upsert', $json);
+    	//$r = json_decode($result);
+		//$contactId = $r->{'contactId'};
+ 		return setcookie('smprod',$allprod, time() + 3650 * 86400,"/","mydevil.net");
+		
+	} 
+	*/

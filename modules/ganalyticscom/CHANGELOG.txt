@@ -1,0 +1,9 @@
+
+[07/01/2013] 	- Modification de la méthode getByOrder() afin d'éviter les notices
+				- Modification de la méthode statut() afin d'éviter les notices : check de la variable $ganalyticscom
+[08/04/2013] 	- Modification de l'affichage des logs
+				- Modification de la durée de vie du cookie permettant de tracker les visites Adwords
+				- Insertion du script de suivi standard Analytics
+				- Modification de la classe X_GoogleAnalyticsMobile pour un meilleur suivi du referer
+				- Suppression des 0 inutiles devant le numéro de commande pour l'affichage dans l'interface Analytics
+				- Ajout de la variable utmcu pour communiquer la devise de la transaction à Analytics

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>myadmin</name>
+	<code>myadmin</code>
+	<title>Administracja</title>
+	<author>FORIX</author>
+	<version>3.40.20</version>
+	<charset>utf-8</charset>
+	<platform>PRESTA</platform>
+	<instanceType>single</instanceType>
+	<session>
+		<ipcheck>0</ipcheck>
+	</session>
+	<topLocation>0</topLocation>
+	<mdbid/>
+	<apikey>6217494199849812</apikey>
+	<logLevel>6</logLevel>
+	<rwdirs>
+	  <dir>config/config.xml</dir>
+	  <dir>data</dir>
+	  <dir>modules</dir>
+	  <dir>tmp</dir>
+	</rwdirs>
+</module>

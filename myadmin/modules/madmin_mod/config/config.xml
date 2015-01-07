@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>madmin</name>
+	<code>MODADM</code>
+	<title>Administracja</title>
+	<description>MyAdmin - Administracja</description>
+	<version>1.3.7</version>
+	<coreminver />
+	<author>FORIX</author>
+	<rwdirs>
+	  <dir>data</dir>
+	</rwdirs>
+	<compatibility>
+	  <shop>ALL</shop>
+	</compatibility>
+</module>

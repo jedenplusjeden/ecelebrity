@@ -1,0 +1,6 @@
+$address1 = Tools::getValue('address1');
+		$address2 = $this->context->customer->address2;
+		$postcode = $params['customer'] -> postcode;
+		$city = $this->context->customer->city;
+		$company = $this->context->customer->company;
+		$phone_mobile = $this->context->customer->phone_mobile;

@@ -1,0 +1,89 @@
+
+## 20-05-2014 18:12:50 #############################################
+#Function - statut | id_order = 24 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 24 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000024";s:3:"ref";s:6:"demo_3";s:8:"category";s:13:"Robes simples";s:4:"name";s:45:"Robe imprimée - Couleur : Orange, Taille : S";s:5:"price";d:25.999852000000000629142959951423108577728271484375;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000024";s:5:"total";d:31.199999999999999289457264239899814128875732421875;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:17:"Virement bancaire";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Virement bancaire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1385477084&utmhn=&utmt=tran&utmtid=24&utmtto=31.2&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&utmcs=UTF-8&utmsr=1600x900&utmvp=283x133&utmsc=24-bit&utmul=fr&utmje=1&utmfl=13.0%20r0&utmhid=1136470645&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2001714955.1398940046.1400511849.1400601921.50%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1241880773&utmhn=&utmt=item&utmtid=24&utmipc=demo_3&utmipn=Robe%20imprim%C3%A9e%20-%20Couleur%20%3A%20Orange%2C%20Taille%20%3A%20S&utmiva=Robes%20simples&utmipr=25.999852&utmiqt=1&utmcs=UTF-8&utmsr=1600x900&utmvp=283x133&utmsc=24-bit&utmul=fr&utmje=1&utmfl=13.0%20r0&utmhid=1136470645&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2001714955.1398940046.1400511849.1400601921.50%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 21-05-2014 12:12:09 #############################################
+#Function - statut | id_order = 25 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 25 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000025";s:3:"ref";s:6:"demo_7";s:8:"category";s:13:"Robes d'été";s:4:"name";s:52:"Robe de soie imprimée - Couleur : Jaune, Taille : S";s:5:"price";d:20.50123599999999868259692448191344738006591796875;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000025";s:5:"total";d:19.67999999999999971578290569595992565155029296875;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:17:"Virement bancaire";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Virement bancaire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1120161208&utmhn=&utmt=tran&utmtid=25&utmtto=19.68&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=1980416997&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2001714955.1398940046.1400607470.1400666234.52%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1307717871&utmhn=&utmt=item&utmtid=25&utmipc=demo_7&utmipn=Robe%20de%20soie%20imprim%C3%A9e%20-%20Couleur%20%3A%20Jaune%2C%20Taille%20%3A%20S&utmiva=Robes%20d%27%C3%A9t%C3%A9&utmipr=20.501236&utmiqt=1&=&utmhid=1980416997&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2001714955.1398940046.1400607470.1400666234.52%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 21-05-2014 12:20:32 #############################################
+#Function - statut | id_order = 26 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 26 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000026";s:3:"ref";s:6:"demo_7";s:8:"category";s:13:"Robes d'été";s:4:"name";s:52:"Robe de soie imprimée - Couleur : Jaune, Taille : S";s:5:"price";d:20.50123599999999868259692448191344738006591796875;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000026";s:5:"total";d:19.67999999999999971578290569595992565155029296875;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:17:"Virement bancaire";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Virement bancaire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1336572992&utmhn=&utmt=tran&utmtid=26&utmtto=19.68&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=2028131268&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2001714955.1398940046.1400607470.1400666234.52%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1216707257&utmhn=&utmt=item&utmtid=26&utmipc=demo_7&utmipn=Robe%20de%20soie%20imprim%C3%A9e%20-%20Couleur%20%3A%20Jaune%2C%20Taille%20%3A%20S&utmiva=Robes%20d%27%C3%A9t%C3%A9&utmipr=20.501236&utmiqt=1&=&utmhid=2028131268&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2001714955.1398940046.1400607470.1400666234.52%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 21-05-2014 12:44:09 #############################################
+#Function - statut | id_order = 27 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 27 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000027";s:3:"ref";s:6:"demo_1";s:8:"category";s:8:"T-shirts";s:4:"name";s:68:"T-shirts à manches courtes délavés - Couleur : Orange, Taille : S";s:5:"price";d:16.510000000000001563194018672220408916473388671875;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000027";s:5:"total";d:19.809999999999998721023075631819665431976318359375;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:9:"Bank wire";s:7:"id_lang";s:1:"3";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Bank wire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1331469470&utmhn=&utmt=tran&utmtid=27&utmtto=19.81&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=1762168247&utmr=0&utmcu=EUR&utmac=&utmcc=__utma%3D161529150.2001714955.1398940046.1400607470.1400666234.52%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1166242168&utmhn=&utmt=item&utmtid=27&utmipc=demo_1&utmipn=T-shirts%20%C3%A0%20manches%20courtes%20d%C3%A9lav%C3%A9s%20-%20Couleur%20%3A%20Orange%2C%20Taille%20%3A%20S&utmiva=T-shirts&utmipr=16.51&utmiqt=1&=&utmhid=1762168247&utmr=0&utmcu=EUR&utmac=&utmcc=__utma%3D161529150.2001714955.1398940046.1400607470.1400666234.52%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 21-05-2014 15:06:50 #############################################
+#Function - statut | id_order = 28 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 28 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000028";s:3:"ref";s:6:"demo_5";s:8:"category";s:13:"Robes d'été";s:4:"name";s:52:"Robe d'été imprimée - Couleur : Jaune, Taille : S";s:5:"price";d:30.5063209999999997990016709081828594207763671875;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000028";s:5:"total";d:34.780000000000001136868377216160297393798828125;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:9:"Bank wire";s:7:"id_lang";s:1:"3";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Bank wire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1129335679&utmhn=&utmt=tran&utmtid=28&utmtto=34.78&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=1652217955&utmr=0&utmcu=EUR&utmac=&utmcc=__utma%3D161529150.2001714955.1398940046.1400666234.1400677370.53%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1135452200&utmhn=&utmt=item&utmtid=28&utmipc=demo_5&utmipn=Robe%20d%27%C3%A9t%C3%A9%20imprim%C3%A9e%20-%20Couleur%20%3A%20Jaune%2C%20Taille%20%3A%20S&utmiva=Robes%20d%27%C3%A9t%C3%A9&utmipr=30.506321&utmiqt=1&=&utmhid=1652217955&utmr=0&utmcu=EUR&utmac=&utmcc=__utma%3D161529150.2001714955.1398940046.1400666234.1400677370.53%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 21-05-2014 15:16:06 #############################################
+#Function - statut | id_order = 29 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 29 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000029";s:3:"ref";s:6:"demo_7";s:8:"category";s:13:"Robes d'été";s:4:"name";s:52:"Robe de soie imprimée - Couleur : Jaune, Taille : S";s:5:"price";d:20.50123599999999868259692448191344738006591796875;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000029";s:5:"total";d:19.67999999999999971578290569595992565155029296875;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:22:"Transferencia bancaria";s:7:"id_lang";s:1:"2";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Transferencia bancaria | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1053447172&utmhn=&utmt=tran&utmtid=29&utmtto=19.68&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=1234401098&utmr=0&utmcu=EUR&utmac=&utmcc=__utma%3D161529150.2001714955.1398940046.1400666234.1400677370.53%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1159044146&utmhn=&utmt=item&utmtid=29&utmipc=demo_7&utmipn=Robe%20de%20soie%20imprim%C3%A9e%20-%20Couleur%20%3A%20Jaune%2C%20Taille%20%3A%20S&utmiva=Robes%20d%27%C3%A9t%C3%A9&utmipr=20.501236&utmiqt=1&=&utmhid=1234401098&utmr=0&utmcu=EUR&utmac=&utmcc=__utma%3D161529150.2001714955.1398940046.1400666234.1400677370.53%3B%2B__utmz%3D161529150.1398940046.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 12-06-2014 13:40:36 #############################################
+#Function - statut | id_order = 30 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 30 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:1:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000030";s:3:"ref";s:6:"demo_5";s:8:"category";s:13:"Robes d'été";s:4:"name";s:52:"Robe d'été imprimée - Couleur : Jaune, Taille : S";s:5:"price";d:30.5063209999999997990016709081828594207763671875;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000030";s:5:"total";d:34.780000000000001136868377216160297393798828125;s:4:"port";d:0;s:3:"tva";d:0;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:17:"Virement bancaire";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Virement bancaire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1039482440&utmhn=&utmt=tran&utmtid=30&utmtto=34.78&utmttx=0&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=2005358899&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2034843981.1402396089.1402553284.1402571129.9%3B%2B__utmz%3D161529150.1402396089.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1345164093&utmhn=&utmt=item&utmtid=30&utmipc=demo_5&utmipn=Robe%20d%27%C3%A9t%C3%A9%20imprim%C3%A9e%20-%20Couleur%20%3A%20Jaune%2C%20Taille%20%3A%20S&utmiva=Robes%20d%27%C3%A9t%C3%A9&utmipr=30.506321&utmiqt=1&=&utmhid=2005358899&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.2034843981.1402396089.1402553284.1402571129.9%3B%2B__utmz%3D161529150.1402396089.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+
+## 12-06-2014 14:36:01 #############################################
+#Function - statut | id_order = 31 | new_order_status = En attente du paiement par virement bancaire id:10
+ganalyticscom ok
+#Function - GanalyticsUpdate | order = 31 | sens = 1
+#COMMANDE INFOS => a:2:{s:8:"products";a:2:{s:8:"product0";a:6:{s:8:"order_id";s:6:"000031";s:3:"ref";s:6:"demo_1";s:8:"category";s:8:"T-shirts";s:4:"name";s:68:"T-shirts à manches courtes délavés - Couleur : Orange, Taille : S";s:5:"price";d:16.510000000000001563194018672220408916473388671875;s:8:"quantity";i:1;}s:8:"product1";a:6:{s:8:"order_id";s:6:"000031";s:3:"ref";s:6:"demo_3";s:8:"category";s:13:"Robes simples";s:4:"name";s:45:"Robe imprimée - Couleur : Orange, Taille : S";s:5:"price";d:26;s:8:"quantity";i:1;}}s:5:"order";a:12:{s:2:"id";s:6:"000031";s:5:"total";d:51.00999999999999801048033987171947956085205078125;s:4:"port";d:0;s:3:"tva";d:8.5;s:4:"city";s:4:"Nice";s:6:"region";s:0:"";s:7:"country";s:6:"France";s:8:"currency";s:3:"EUR";s:7:"payment";s:17:"Virement bancaire";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:13:"id_shop_group";s:1:"1";}}
+#gclid =>  | REFERER => 
+#PAYMENT =>  Virement bancaire | #STATUT =>  En attente du paiement par virement bancaire
+#TrafficSource => a:6:{s:8:"utmgclid";s:0:"";s:6:"utmcsr";s:8:"(direct)";s:6:"utmccn";s:8:"(direct)";s:6:"utmcmd";s:6:"(none)";s:6:"utmctr";s:0:"";s:6:"utmcct";s:0:"";}
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1360698406&utmhn=&utmt=tran&utmtid=31&utmtto=51.01&utmttx=8.5&utmtsp=0&utmtci=Nice&utmtrg=&utmtco=France&=&utmhid=1679995915&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.1963741645.1402575534.1402575534.1402575534.1%3B%2B__utmz%3D161529150.1402575534.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1081685990&utmhn=&utmt=item&utmtid=31&utmipc=demo_1&utmipn=T-shirts%20%C3%A0%20manches%20courtes%20d%C3%A9lav%C3%A9s%20-%20Couleur%20%3A%20Orange%2C%20Taille%20%3A%20S&utmiva=T-shirts&utmipr=16.51&utmiqt=1&=&utmhid=1679995915&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.1963741645.1402575534.1402575534.1402575534.1%3B%2B__utmz%3D161529150.1402575534.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B
+200 : OK ** http://www.google-analytics.com/__utm.gif?utmwv=5.4.2&utmn=1144564587&utmhn=&utmt=item&utmtid=31&utmipc=demo_3&utmipn=Robe%20imprim%C3%A9e%20-%20Couleur%20%3A%20Orange%2C%20Taille%20%3A%20S&utmiva=Robes%20simples&utmipr=26&utmiqt=1&=&utmhid=1679995915&utmr=0&utmcu=EUR&utmac=UA-6946754-48&utmcc=__utma%3D161529150.1963741645.1402575534.1402575534.1402575534.1%3B%2B__utmz%3D161529150.1402575534.1.1.utmcsr%3D%28direct%29%7Cutmccn%3D%28direct%29%7Cutmcmd%3D%28none%29%3B

@@ -1,0 +1,36 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_f81069fd6117f7f303342924bcce1335'] = 'Para hacer funcionar el orden establecido, es necesario comprobar si ha seleccionado la opción de configuración \"Por defecto ordenado por: Dentro de la categoría\". Puedes comprobarlo pulsando';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6c92285fa6d3e827b198d120ea3ac674'] = 'aquí.';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_03368e3c1eb4d2a9048775874301b19f'] = 'Selecciona la categoría a ordenar';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_86024cad1e83101d97359d7351051156'] = 'productos';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_9007d627b1d37b40035b9b5dc373b272'] = 'El orden de los productos ha sido actualizado corectamente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_bf85d21a9413bc3d44e7fa7a3bfdbcf9'] = 'Ordenar la categoría por';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_826c19d01b527f2701cc3460b9c889de'] = 'Orden personalizado';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_52d5301dbb43f26e86168c5ba53b081d'] = 'Precio ascendente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_ca74454729ae2e506f435b49d911957f'] = 'Precio descendente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_a91288ae11a74ac6560baa8ad691a956'] = 'Stock ascendente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6bec209cf4e8a6f91560fdeacff0b002'] = 'Stock descendente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_05d6fdbb4c01dfa62e1b27fa074dfd88'] = 'Fecha ascendente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_5d064159950d9f632315d173a3bef308'] = 'Fecha descendente';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_d7778d0c64b6ba21494c97f77a66885a'] = 'Filtrar los productos por';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_4e140ba723a03baa6948340bf90e2ef6'] = 'Nombre:';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_f4a275a931b82e5058bc8ffad8b8e5bd'] = 'Fabricante:';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_b1c94ca2fbc3e78fc30069c8d0f01680'] = 'Todos';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_24a23d787190f2c4812ff9ab11847a72'] = 'Estado:';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_4d3d769b812b6faa6b76e1a8abaece2d'] = 'Activado';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_3cab03c00dbd11bc3569afa0748013f0'] = 'Desactivado';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_b718adec73e04ce3ec720dd11a06a308'] = 'ID';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_23a12f67f614b5518c7f1c2465bf95e3'] = 'IMAGEN';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_ad32e604e17467fc435538334fbddf3e'] = 'NOMBRE';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6a4c1672391ec30e8de1c47e55fa0037'] = 'FABRICANTE';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_633a6c7a6b9958f8174250094daf1e6a'] = 'FECHA';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6da7ab78b59d24c57919aa4011b1392e'] = 'PRECIO';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_f82422e777e3674444389cdf569b3661'] = 'STOCK';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_18ff74f43da410c5529f7d6fca84f115'] = 'ESTADO';
+$_MODULE['<{lgproductordered}prestashop>adminlgproductordered_6575d9a58f0b41a108f2d6a565a0650d'] = 'ORDEN';
+$_MODULE['<{lgproductordered}prestashop>lgproductordered_491838beeca5c3154255abb58cf09f82'] = 'Ordenar Productos por Categoría';
+$_MODULE['<{lgproductordered}prestashop>lgproductordered_ecb6ce4464b62389891e8ed40dc4eafc'] = 'Ordena tus productos por precio, stock, fecha o por orden personaliazado.';
+$_MODULE['<{lgproductordered}prestashop>lgproductordered_cdf570a185907ebd16c2b50886a88646'] = 'Ordenar productos';

@@ -1,0 +1,45 @@
+.m-description{
+	font-size: 14px;
+}
+
+.m-description ul{
+	margin: 5px;
+	padding-left: 5px;
+	font-size: 12px;
+}
+
+.m-description li{
+	padding: 4px;
+	font-weight: normal;
+	list-style: none outside;
+}
+
+.m-description ul li:first-child {
+  color: #0088cc;
+}
+
+.m-description ul ul li:first-child {
+  color: inherit;
+}
+
+.action-result {
+	width: 98%;
+	height: 25px;
+	line-height: 25px;
+	text-align: right;
+}
+
+.pos {
+	color: #009b00;
+	font-weight: 700;
+}
+
+.neu {
+	color: #646464;
+	font-weight: 700;
+}
+
+.neg {
+	color: #ee3e2b;
+	font-weight: 700;
+}

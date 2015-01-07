@@ -1,0 +1,20 @@
+# Wprowadzenie
+Platforma SMSAPI zosta³a skierowana do u¿ytkowników chc¹cych rozbudowaæ swoje aplikacje o 
+system wysy³ania i odbierania SMS-ów oraz MMS-ów oraz wysy³ki wiadomoœci g³osowych VMS. 
+Aplikacja ta w prosty sposób umo¿liwia integracjê dowolnego serwisu z bramk¹ SMS, MMS i/lub VMS. 
+G³ównymi atutami naszego serwisu oprócz prostej implementacji jest mo¿liwoœæ nadawania wiadomoœci 
+z w³asnej nazwy (maksymalnie 11 znaków). Ka¿dy wys³any SMS, MMS oraz VMS za poœrednictwem systemu 
+posiada unikalny numer identyfikacyjny pozwalaj¹c na sprawdzenie raportu dorêczenia wiadomoœci.
+
+
+# Rozpoczecie wspolpracy
+W celu rozpoczêcia wspó³pracy nale¿y utworzyæ konto w serwisie SMSAPI: http://www.smsapi.pl/
+Utworzone konto jest gotowe do u¿ytku, jednak zalecamy ustawienia w³asnej nazwy. Konta bez dodanej 
+w³asnej nazwy posiadaj¹ jako nadawcê wiadomoœci nazwê serwisu „SMSAPI.pl”. 
+Ustawienie nazwy nadawcy jest us³ug¹ ca³kowicie darmow¹.
+
+
+# Filtr IP dla interfejsu API
+W celu dodatkowego zabezpieczenie interfejsu API w menu „USTAWIENIA” › „API” zak³adka „Filtr adresów IP” 
+w polu Filtr adresów IP ustawiæ mo¿na adresy IP z których mo¿liwa bêdzie wysy³ka wiadomoœci (w przypadku 
+próby dokonania wysy³ki z innego IP system zwróci b³¹d: ERROR:105). Adresy nale¿y oddzieliæ œrednikami.

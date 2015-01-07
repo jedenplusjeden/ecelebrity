@@ -1,0 +1,69 @@
+INSTALACJA MYADMIN
+
+
+
+1. Rozpakuj paczkę zawierającą program MyAdmin i umieść zawarty w niej katalog o nazwie "myadmin" na serwerze, w katalogu głównym sklepu*.
+
+2. Ustaw prawa pozwalające serwerowi WWW na zapis do następujących katalogów i ich zawartości:
+- {KATALOG_SKLEPU}/myadmin/
+
+3. W przeglądarce internetowej wprowadź adres http://{ADRES_SKLEPU}/myadmin/install i krok po kroku przejdź proces instalacji.
+
+4. Usuń z serwera następujące katalogi oraz ich zawartość:
+- {KATALOG_SKLEPU}/myadmin/install
+
+5. W przeglądarce internetowej wprowadź adres http://{ADRES_SKLEPU}/myadmin i zaloguj się (wykorzystaj login i hasło swojego konta użytkownika w sklepie).
+
+6. Aktywuj zainstalowane moduły wciskając kolejno przyciski "Aktywuj" umieszczone na stronie głównej MyAdmina.
+
+
+>>>>>  UWAGA 1 (Przed instalacją) <<<<<<
+
+Pliki muszą być przenoszone na serwer w tzw. TRYBIE BINARNYM. 
+
+Np. w programie FileZilla należy wymusić Tryb Binarny ustawiając w menu: Transfer -> Tryb transferu -> Binarny
+
+
+
+>>>>>  UWAGA 2 (Przed instalacją) <<<<<<
+
+Zarówno instalator, jaki program  MyAdmin wymagają zainstalowanego na serwerze "loadera IONCUBE" w wersji minimum 4.0
+Większość serwerów WWW jest w niego wyposażona, jeżeli jednak pojawiają się problemy typu:
+
+- zamiast instalatora wyświetla się biała strona
+- pojawia się błąd: "Site error: xxxxxxxxxx requires the ionCube PHP Loader ..."
+- lub "Fatal error ..."
+
+wtedy skontaktuj się z administratorem swojego serwera i poproś o zainstalowanie "loadera IONCUBE w wersji minimum 4.0"
+
+
+
+
+>>>>>  UWAGA 3 (Przed instalacją) <<<<<<
+
+Jeżeli po wywołaniu w przeglądarce adresu "http://{ADRES_SKLEPU}/myadmin/install" panel instalatora jest niepoprawnie sformtowany lub brakuje przycisku "Dalej", 
+oznacza to, że serwer WWW nie może odczytać niektórych plików. Powodem są niepoprawne uprawnienia do plików - wykonaj ponownie punkt drugi instrukcji lub skontaktuj się 
+z administratorem Twojego serwera
+
+
+
+
+>>>>>  UWAGA 4 (Po instalacji) <<<<<<
+
+Program przygotowany jest do pracy w katalogu głównym domeny np. www.twojadomena.pl/myadmin. Jeśli Twój sklep znajduje się w podkatalogu np. "sklep" 
+(wywołanie wygląda następująco www.twojadomena.pl/sklep/myadmin), wówczas konieczna jest zmiana wpisu w pliku .htaccess:
+
+- otwórz do edycji plik /myadmin/.htaccess
+- sprawdź i w miarę potrzeby zmień linie "RewriteBase /myadmin" na "RewriteBase /sklep/myadmin"
+- zapisz zmiany i nadpisz plik znajdujący sie na serwerze
+
+
+*) W celu umieszczenia plików instalacyjnych na serwerze możesz użyć ulubionego klienta FTP np. TotalCommander, Krusader, FileZilla (pamiętaj, że pliki muszą być przenoszone w TRYBIE BINARNYM) lub skorzystać
+z menedżera plików udostępnianego w panelu administracyjnym Twojego hostingu. 
+
+
+
+
+
+
+Więcej informacji: www.megamo.pl

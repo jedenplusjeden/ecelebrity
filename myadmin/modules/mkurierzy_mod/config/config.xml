@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mkurierzy</name>
+	<code>MODKUR</code>
+	<title>M-Kurierzy</title>
+	<description>Masowe generowanie druków dla DPD, UPS, DHL, GLS, K-EX, Siódemka, Pocztex, TNT i Poczty Polskiej</description>
+	<version>1.90.4</version>
+	<coreminver>3.40.15</coreminver>
+	<author>FORIX</author>
+	<rwdirs>
+	  <dir>data</dir>
+	</rwdirs>
+	<compatibility>
+	  <shop>KQS</shop>
+	  <shop>GEKO</shop>
+	  <shop>PRESTA</shop>
+	  <shop>OSCG</shop>
+	</compatibility>
+</module>

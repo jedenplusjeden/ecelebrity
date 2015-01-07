@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>transferuj</name>
+	<displayName>Transferuj.pl</displayName>
+	<version>2.1</version>
+	<description>ObsÅuga pÅatnoÅci Transferuj.pl</description>
+	<author>Transferuj.pl</author>
+	<tab>payments_gateways</tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

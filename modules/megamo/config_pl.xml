@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>megamo</name>
+	<displayName><![CDATA[Megamo - MyAdmin ]]></displayName>
+	<version><![CDATA[0.9.9]]></version>
+	<description><![CDATA[Integracja sklepu z Allegro, Pocztą Polską (e-Nadawca), UPS, DPD, DHL, K-EX, Si&oacute;demka, GLS, TNT, Druczki-Pocztowe - www.megamo.pl]]></description>
+	<author><![CDATA[www.megamo.pl]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

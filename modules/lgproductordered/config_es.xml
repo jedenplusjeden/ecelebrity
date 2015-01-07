@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>lgproductordered</name>
+	<displayName><![CDATA[Ordenar Productos por Categor&iacute;a]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Ordena tus productos por categor&iacute;as, orden&aacute;ndolos por stock, por precio, por fecha o estableciendo manualmente el orden de los mismos.]]></description>
+	<author><![CDATA[Lineagrafica.es]]></author>
+	<tab><![CDATA[Lineagrafica]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
