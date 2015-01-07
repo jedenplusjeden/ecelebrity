@@ -165,7 +165,7 @@
                     <p>Stanisław Dolny 488A<br/>34-130 Kalwaria Zebrzydowska</p>
                 </div>
                 <div class="col col-3">
-                    <p>tel. +48 33 876 49 70<br/>fax. +48 33 872 50 40</p>
+                    <p>tel. +48 33 876 10 79<br/>fax. +48 33 872 50 40</p>
                 </div>
                 <div class="col col-4">
                     <p><a href="mailto:sekretariat@celebritybycb.com">sekretariat@celebritybycb.com</a><br><a href="mailto:sklep@celebritybycb.com">sklep@celebritybycb.com</a></p>
