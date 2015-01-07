@@ -79,4 +79,3 @@ Thank you for downloading and using the PrestaShop e-commerce Open-source soluti
 [8]: CONTRIBUTING.md
 [9]: http://doc.prestashop.com/display/PS16/Contributing+to+PrestaShop
 [10]: https://crowdin.net/project/prestashop-official
-
