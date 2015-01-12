@@ -31,7 +31,7 @@ $_MODULE['<{cheque}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2
 $_MODULE['<{cheque}prestashop>payment_execution_f73ad0f08052884ff465749bf48b55ce'] = 'Akceptujemy następującą walutę';
 $_MODULE['<{cheque}prestashop>payment_execution_7135ff14c7931e1c8e9d33aff3dfc7f7'] = 'Odbiorca czeku oraz adres zostana wyswietlone na następnej stronie.';
 $_MODULE['<{cheque}prestashop>payment_execution_52f64bc0164b0e79deaeaaaa7e93f98f'] = 'Proszę potwierdzić zamówienie klikając \'Potwierdzam moje zamówienie\'.';
-$_MODULE['<{cheque}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Potwierdzam zamówienie';
+$_MODULE['<{cheque}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Potwierdź zakup';
 $_MODULE['<{cheque}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Inne metody płatności';
 $_MODULE['<{cheque}prestashop>infos_14e41f4cfd99b10766cc15676d8cda66'] = 'Moduł ten umożliwia przyjmowanie płatności czekiem.';
 $_MODULE['<{cheque}prestashop>infos_e444fe40d43bccfad255cf62ddc8d18f'] = 'Jeżeli klient wybierze tą metodę płatności, status zamówienia zmieni się się na "Oczekiwanie na płatność".';

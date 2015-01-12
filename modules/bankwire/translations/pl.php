@@ -30,7 +30,7 @@ $_MODULE['<{bankwire}prestashop>payment_execution_b28be4c423d93e02081f4e79fe2434
 $_MODULE['<{bankwire}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = 'Wybierz jedno z następujących:';
 $_MODULE['<{bankwire}prestashop>payment_execution_a854d894458d66d92cabf0411c499ef4'] = 'Akceptujemy następujące waluty w przelewie bankowym: ';
 $_MODULE['<{bankwire}prestashop>payment_execution_3dd021316505c0204989f984246c6ff1'] = 'Informacje o koncie bankowym będą wyświetlone na następnej stronie.';
-$_MODULE['<{bankwire}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Potwierdzam zamówienie';
+$_MODULE['<{bankwire}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = 'Potwierdź zakup';
 $_MODULE['<{bankwire}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = 'Inne metody płatności';
 $_MODULE['<{bankwire}prestashop>infos_c1be305030739396775edaca9813f77d'] = 'Ten moduł służy do akceptacji płatności przelewem';
 $_MODULE['<{bankwire}prestashop>infos_60742d06006fde3043c77e6549d71a99'] = 'Jeżeli klient wybierze płatność przelewem, status zamówienia zmieni się na "Oczekiwanie na zapłatę".';

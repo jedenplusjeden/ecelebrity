@@ -40,6 +40,6 @@
 </p>
 <p class="cart_navigation">
 	<a href="{$link->getPageLink('order.php', true)}?step=3" class="button_large">{l s='Inne metody płatności' mod='transferuj'}</a>
-	<a href="#" class="exclusive_large" onclick="$('#transferujForm').submit();return false;">{l s='Potwierdzam zamówienie' mod='transferuj'}</a>
+	<a href="#" class="exclusive_large" onclick="$('#transferujForm').submit();return false;" value="{l s='I confirm my order' mod='transferuj'}">{l s='I confirm my order' mod='transferuj'}</a>
 </p>
 </form>
