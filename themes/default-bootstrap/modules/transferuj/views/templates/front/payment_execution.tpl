@@ -50,7 +50,7 @@
     </p>
     <div class="transferuj-pay clearfix">
         <p class="cart_navigation">
-            <a href="#" class="exclusive_large" onclick="$('#transferujForm').submit();return false;">Potwierdzam</a>
+            <a href="#" class="exclusive_large" onclick="$('#transferujForm').submit();return false;">Potwierdź zakup</a>
         </p>
         <p> lub </p>
         <p><a href="{$link->getPageLink('order.php', true)}?step=3">Zmień metodę płatności</a></p>
