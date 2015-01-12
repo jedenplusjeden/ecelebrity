@@ -132,7 +132,7 @@ $(document).ready(function(){
     $('input[type="checkbox"]').each(function(){
         var id = $(this).attr('id');
         if ( this.checked ) {
-            $('label[for="' + id + '"]').addClass('checked');
+           // $('label[for="' + id + '"]').addClass('checked');
         }
     });
 
