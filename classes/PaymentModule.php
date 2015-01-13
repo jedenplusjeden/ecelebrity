@@ -749,6 +749,18 @@ abstract class PaymentModuleCore extends Module
 						}
 						else
 							$file_attachement = null;
+                                                if ($order->current_state && $file_attachement == null) {
+                                                    $file_attachement['content'] = file_get_contents('http://www.ecelebrity.eu/dopobrania/ecelebrity-regulamin-sklepu.pdf');
+                                                    $file_attachement['name'] = 'reg.pdf';
+                                                    $file_attachement['mime'] = 'application/pdf';
+                                                } else if($order->current_state && $file_attachement != null) {
+                                                    empty($file_attachement);
+                                                    $file_attachement[0] = array($file_attachement);
+                                                    $file_attachement[1]['content'] = file_get_contents('http://www.ecelebrity.eu/dopobrania/ecelebrity-regulamin-sklepu.pdf');
+                                                    $file_attachement[1]['name'] = 'reg.pdf';
+                                                    $file_attachement[1]['mime'] = 'application/pdf';
+                                                }
+                                                
 
 						if (self::DEBUG_MODE)
 							PrestaShopLogger::addLog('PaymentModule::validateOrder - Mail is about to be sent', 1, null, 'Cart', (int)$id_cart, true);
