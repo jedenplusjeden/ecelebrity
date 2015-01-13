@@ -3067,8 +3067,8 @@ INSERT INTO `prstshp_configuration` (`id_configuration`, `id_shop_group`, `id_sh
 (231, NULL, NULL, 'HOMESLIDER_PAUSE', '3000', '0000-00-00 00:00:00', '2014-06-21 01:14:53'),
 (232, NULL, NULL, 'HOMESLIDER_LOOP', '1', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (233, NULL, NULL, 'PS_BASE_DISTANCE_UNIT', 'm', '0000-00-00 00:00:00', '2014-08-26 04:11:12'),
-(234, NULL, NULL, 'PS_SHOP_DOMAIN', 'www.ecelebrity.eu', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
-(235, NULL, NULL, 'PS_SHOP_DOMAIN_SSL', 'www.ecelebrity.eu', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
+(234, NULL, NULL, 'PS_SHOP_DOMAIN', 'www.dev.ecelebrity.eu', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
+(235, NULL, NULL, 'PS_SHOP_DOMAIN_SSL', 'www.dev.ecelebrity.eu', '0000-00-00 00:00:00', '0000-00-00 00:00:00'),
 (236, NULL, NULL, 'PS_SHOP_NAME', 'Ecelebrity.eu', '0000-00-00 00:00:00', '2014-06-21 01:13:44'),
 (237, NULL, NULL, 'PS_SHOP_EMAIL', 'webmaster@1plus1.pl', '0000-00-00 00:00:00', '2014-06-21 01:14:02'),
 (238, NULL, NULL, 'PS_MAIL_METHOD', '2', '0000-00-00 00:00:00', '2014-08-26 10:33:27'),
@@ -13253,7 +13253,7 @@ CREATE TABLE IF NOT EXISTS `prstshp_shop_url` (
 --
 
 INSERT INTO `prstshp_shop_url` (`id_shop_url`, `id_shop`, `domain`, `domain_ssl`, `physical_uri`, `virtual_uri`, `main`, `active`) VALUES
-(1, 1, 'www.ecelebrity.eu', 'wwww.ecelebrity.eu', '/', '', 1, 1);
+(1, 1, 'www.dev.ecelebrity.eu', 'wwww.dev.ecelebrity.eu', '/', '', 1, 1);
 
 -- --------------------------------------------------------
 

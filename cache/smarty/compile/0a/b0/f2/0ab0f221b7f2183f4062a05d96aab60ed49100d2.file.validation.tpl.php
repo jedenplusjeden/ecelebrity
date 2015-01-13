@@ -79,7 +79,7 @@ if (!empty($_capture_buffer)) {
 </span></button>
         </p>
         <p style="margin-left: 5px;"> lub </p>
-        <p><a href="https://www.ecelebrity.eu/order?step=3">Zmień metodę płatności</a></p>
+        <p><a href="https://www.dev.ecelebrity.eu/order?step=3">Zmień metodę płatności</a></p>
     </div>
 </form>
 <?php }} ?>

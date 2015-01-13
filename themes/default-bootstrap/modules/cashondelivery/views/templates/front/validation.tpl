@@ -58,6 +58,6 @@
             <button type="submit" class="button btn btn-default button-medium"><span>{l s='I confirm my order' mod='cashondelivery'}</span></button>
         </p>
         <p style="margin-left: 5px;"> lub </p>
-        <p><a href="https://www.ecelebrity.eu/order?step=3">Zmień metodę płatności</a></p>
+        <p><a href="https://www.dev.ecelebrity.eu/order?step=3">Zmień metodę płatności</a></p>
     </div>
 </form>

@@ -44,12 +44,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_548af7eac99162_70363335')) {function content_548af7eac99162_70363335($_smarty_tpl) {?><ul class="step clearfix" id="order_step">
     <li class="step_done first">
-        <a href="http://www.ecelebrity.eu/zamowienie">
+        <a href="http://www.dev.ecelebrity.eu/zamowienie">
             <em>1.</em> Koszyk
         </a>
     </li>
     <li class="step_done step_done_last second">
-        <a href="http://www.ecelebrity.eu/zamowienie?step=1&amp;multi-shipping=">
+        <a href="http://www.dev.ecelebrity.eu/zamowienie?step=1&amp;multi-shipping=">
             <em>2.</em> Zaloguj się
         </a>
     </li>

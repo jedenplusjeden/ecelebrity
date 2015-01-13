@@ -25,5 +25,5 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <meta property="og:locality" content="" />
 <meta property="og:country-name" content="" />
 <meta property="og:postal-code" content="" />
-<meta property="og:image" content="http://www.ecelebrity.eu/756-large_default/V2334-FUXIA.jpg" />
+<meta property="og:image" content="http://www.dev.ecelebrity.eu/756-large_default/V2334-FUXIA.jpg" />
 <?php }} ?>

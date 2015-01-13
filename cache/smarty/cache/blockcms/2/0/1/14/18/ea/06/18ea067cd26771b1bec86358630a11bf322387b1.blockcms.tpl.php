@@ -21,7 +21,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<h4>Informacja</h4>
 		<ul class="toggle-footer">
 																<li class="item">
-					<a href="http://www.ecelebrity.eu/stores" title="Nasze sklepy">
+					<a href="http://www.dev.ecelebrity.eu/stores" title="Nasze sklepy">
 						Nasze sklepy
 					</a>
 				</li>

@@ -31,14 +31,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/60-CLASSICO-BELLEZZA" title="">
+	href="http://www.dev.ecelebrity.eu/60-CLASSICO-BELLEZZA" title="">
 		CLASSICO&amp;BELLEZZA
 	</a>
 			<ul>
 												
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/64-czolenka" title="">
+	href="http://www.dev.ecelebrity.eu/64-czolenka" title="">
 		CZÓŁENKA
 	</a>
 	</li>
@@ -46,7 +46,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/67-BALERINY" title="">
+	href="http://www.dev.ecelebrity.eu/67-BALERINY" title="">
 		BALERINY
 	</a>
 	</li>
@@ -54,7 +54,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/74-KOZAKI-PLASKIE" title="">
+	href="http://www.dev.ecelebrity.eu/74-KOZAKI-PLASKIE" title="">
 		KOZAKI PŁASKIE
 	</a>
 	</li>
@@ -62,7 +62,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/82-BOTKI" title="">
+	href="http://www.dev.ecelebrity.eu/82-BOTKI" title="">
 		BOTKI
 	</a>
 	</li>
@@ -70,7 +70,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://www.ecelebrity.eu/83-POLBUTY" title="">
+	href="http://www.dev.ecelebrity.eu/83-POLBUTY" title="">
 		PÓŁBUTY
 	</a>
 	</li>
@@ -82,14 +82,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/62-VICTIM" title="">
+	href="http://www.dev.ecelebrity.eu/62-VICTIM" title="">
 		VICTIM
 	</a>
 			<ul>
 												
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/70-SNEAKERSY" title="">
+	href="http://www.dev.ecelebrity.eu/70-SNEAKERSY" title="">
 		SNEAKERSY
 	</a>
 	</li>
@@ -97,7 +97,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/72-BOTKI" title="">
+	href="http://www.dev.ecelebrity.eu/72-BOTKI" title="">
 		BOTKI
 	</a>
 	</li>
@@ -105,7 +105,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/73-KOZAKI-PLASKIE" title="">
+	href="http://www.dev.ecelebrity.eu/73-KOZAKI-PLASKIE" title="">
 		KOZAKI PŁASKIE
 	</a>
 	</li>
@@ -113,7 +113,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://www.ecelebrity.eu/75-KOZAKI-NA-OBCASIE" title="">
+	href="http://www.dev.ecelebrity.eu/75-KOZAKI-NA-OBCASIE" title="">
 		KOZAKI NA OBCASIE
 	</a>
 	</li>
@@ -125,14 +125,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/68-CELEBRITY" title="">
+	href="http://www.dev.ecelebrity.eu/68-CELEBRITY" title="">
 		CELEBRITY
 	</a>
 			<ul>
 												
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/69-OPEN-TOE" title="">
+	href="http://www.dev.ecelebrity.eu/69-OPEN-TOE" title="">
 		OPEN TOE
 	</a>
 	</li>
@@ -140,7 +140,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://www.ecelebrity.eu/71-czolenka" title="">
+	href="http://www.dev.ecelebrity.eu/71-czolenka" title="">
 		CZÓŁENKA
 	</a>
 	</li>
@@ -152,7 +152,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://www.ecelebrity.eu/80-AKCESORIA" title="">
+	href="http://www.dev.ecelebrity.eu/80-AKCESORIA" title="">
 		AKCESORIA
 	</a>
 	</li>
@@ -161,7 +161,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://www.ecelebrity.eu/81-OUTLET" title="">
+	href="http://www.dev.ecelebrity.eu/81-OUTLET" title="">
 		OUTLET
 	</a>
 	</li>

@@ -41,7 +41,7 @@
         </div>
     </div>
     <div id="tabela-rozmiarow" class="mfp-hide">
-        <img src="http://www.ecelebrity.eu/themes/default-bootstrap/img/tabela_rozmiarow_but.png" alt=""/>
+        <img src="http://www.dev.ecelebrity.eu/themes/default-bootstrap/img/tabela_rozmiarow_but.png" alt=""/>
     </div>
     <div itemscope itemtype="http://schema.org/Product">
 	<div class="primary_block row">

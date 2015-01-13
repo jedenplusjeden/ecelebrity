@@ -19,19 +19,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<p class="socialsharing_product list-inline no-print">
 					<button data-type="twitter" type="button" class="btn btn-default btn-twitter social-sharing">
 				<i class="icon-twitter"></i> Tweetuj
-				<!-- <img src="http://www.ecelebrity.eu/modules/socialsharing/img/twitter.gif" alt="Tweet" /> -->
+				<!-- <img src="http://www.dev.ecelebrity.eu/modules/socialsharing/img/twitter.gif" alt="Tweet" /> -->
 			</button>
 							<button data-type="facebook" type="button" class="btn btn-default btn-facebook social-sharing">
 				<i class="icon-facebook"></i> Udostępnij
-				<!-- <img src="http://www.ecelebrity.eu/modules/socialsharing/img/facebook.gif" alt="Facebook Like" /> -->
+				<!-- <img src="http://www.dev.ecelebrity.eu/modules/socialsharing/img/facebook.gif" alt="Facebook Like" /> -->
 			</button>
 							<button data-type="google-plus" type="button" class="btn btn-default btn-google-plus social-sharing">
 				<i class="icon-google-plus"></i> Google+
-				<!-- <img src="http://www.ecelebrity.eu/modules/socialsharing/img/google.gif" alt="Google Plus" /> -->
+				<!-- <img src="http://www.dev.ecelebrity.eu/modules/socialsharing/img/google.gif" alt="Google Plus" /> -->
 			</button>
 							<button data-type="pinterest" type="button" class="btn btn-default btn-pinterest social-sharing">
 				<i class="icon-pinterest"></i> Pinterest
-				<!-- <img src="http://www.ecelebrity.eu/modules/socialsharing/img/pinterest.gif" alt="Pinterest" /> -->
+				<!-- <img src="http://www.dev.ecelebrity.eu/modules/socialsharing/img/pinterest.gif" alt="Pinterest" /> -->
 			</button>
 			</p>
 <?php }} ?>

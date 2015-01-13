@@ -61,18 +61,18 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <meta name="viewport" content="width=device-width, maximum-scale=1.0" /><!-- for iPad landscape mode -->
     
-    <link rel="stylesheet" href="//www.ecelebrity.eu/themes/default-bootstrap/css/reset.css">
-    <link rel="stylesheet" href="//www.ecelebrity.eu/themes/default-bootstrap/css/jquery.bxslider.css">
-    <link rel="stylesheet" href="//www.ecelebrity.eu/themes/default-bootstrap/css/magnificient.css">
-    <link rel="stylesheet" href="//www.ecelebrity.eu/themes/default-bootstrap/css/jquery-ui-1.9.2.css">
-    <link rel="stylesheet" href="//www.ecelebrity.eu/themes/default-bootstrap/css/style.css">
-    <link rel="stylesheet" href="//www.ecelebrity.eu/themes/default-bootstrap/css/responsive.css">
-    <link rel="icon" href="//www.ecelebrity.eu/themes/default-bootstrap/img/favicon.ico" />
+    <link rel="stylesheet" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/css/reset.css">
+    <link rel="stylesheet" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/css/jquery.bxslider.css">
+    <link rel="stylesheet" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/css/magnificient.css">
+    <link rel="stylesheet" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/css/jquery-ui-1.9.2.css">
+    <link rel="stylesheet" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/css/style.css">
+    <link rel="stylesheet" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/css/responsive.css">
+    <link rel="icon" href="//www.dev.ecelebrity.eu/themes/default-bootstrap/img/favicon.ico" />
 
-    <script src="//www.ecelebrity.eu/themes/default-bootstrap/js/modernizr-2.6.2.min.js"></script>
+    <script src="//www.dev.ecelebrity.eu/themes/default-bootstrap/js/modernizr-2.6.2.min.js"></script>
     <script>
-        var baseDir = 'http://www.ecelebrity.eu/';
-        var baseUri = 'http://www.ecelebrity.eu/';
+        var baseDir = 'http://www.dev.ecelebrity.eu/';
+        var baseUri = 'http://www.dev.ecelebrity.eu/';
         var lockLocationChecking;
         var static_token = '<?php echo $_smarty_tpl->tpl_vars['static_token']->value;?>
 ';
@@ -155,7 +155,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         </div>
         <div id="login-tab" class="toggleClass clearfix">
             <div class="left-column">
-                <form action="http://www.ecelebrity.eu/logowanie" method="post" id="login_form" class="box">
+                <form action="http://www.dev.ecelebrity.eu/logowanie" method="post" id="login_form" class="box">
                     <div class="form-row clearfix">
                         <div class="form-col">
                             <div class="form-title">
@@ -194,7 +194,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                 </form>                    
             </div>
             <div class="right-column">
-                <form action="http://www.ecelebrity.eu/logowanie" method="post" id="create-account_form" class="box">
+                <form action="http://www.dev.ecelebrity.eu/logowanie" method="post" id="create-account_form" class="box">
                     <div class="title"><h3>STWÓRZ KONTO</h3><br></div>
                     <p style="font-size:11px; line-height: 18px;">Twój dostęp do sklepu Celebrity zaczyna się tutaj: zarejestruj swoje konto, śledź zamówienia i kupuj bezpiecznie za pomocą kilku kliknięć.</p><br>
                     <input type="hidden" class="hidden" name="back" value="">
@@ -242,8 +242,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <section id="header">
     <div class="container clearfix">
         <div id="logo">
-            <a href="http://www.ecelebrity.eu">
-                <img src="//www.ecelebrity.eu/themes/default-bootstrap/img/logo.png" alt="">
+            <a href="http://www.dev.ecelebrity.eu">
+                <img src="//www.dev.ecelebrity.eu/themes/default-bootstrap/img/logo.png" alt="">
             </a>
         </div>
         <?php if (isset($_smarty_tpl->tpl_vars['HOOK_TOP']->value)) {?><?php echo $_smarty_tpl->tpl_vars['HOOK_TOP']->value;?>

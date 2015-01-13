@@ -247,12 +247,12 @@ body .ui-tooltip { border-width: 2px; }
 
 }
 .ui-slider-handle.ui-state-default.ui-corner-all {
-    background: url('http://www.ecelebrity.eu/themes/default-bootstrap/img/slider-left.png') no-repeat scroll 0 0 transparent;
+    background: url('http://www.dev.ecelebrity.eu/themes/default-bootstrap/img/slider-left.png') no-repeat scroll 0 0 transparent;
     background-size: 100% 100%;
     top: -3px;
 }
 .ui-slider-handle.ui-state-default.ui-corner-all:last-child {
-    background: url('http://www.ecelebrity.eu/themes/default-bootstrap/img/slider-right.png') no-repeat scroll 0 0 transparent;
+    background: url('http://www.dev.ecelebrity.eu/themes/default-bootstrap/img/slider-right.png') no-repeat scroll 0 0 transparent;
     background-size: 100% 100%;
 }
 .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited { color: #1c94c4; text-decoration: none; }
